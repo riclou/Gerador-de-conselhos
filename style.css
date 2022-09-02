@@ -55,13 +55,12 @@ footer{
     background-color: #000;
     position: fixed;
     bottom: 0;
-    height: 5rem;
+    height: auto;
     padding: 2rem;
     width: 100%;
     left: 0;
     display: flex;
     justify-content: center;
-
 }
 a{
     color: #F0F2F2;
